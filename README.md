@@ -1,24 +1,17 @@
-## Hi there I'm uchiha0bd! 👋 My name is FARES HAMID ABDO MOHAMMED
-
-
-
-
-I am a Software Engenerieeing student in Universiti Teknologi Malaysia (UTM)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on improving AI Database...
-- 🌱 I’m currently learning about APIs...
-- 🤝 I'm happy to collaborate on Projects.
-- 📫 How to reach me:  contact at +601127317596 or faresexpress2@gmail.com ...
-
-[![Commits](https://img.shields.io/github/commit-activity/m/uchiha0bd/uchiha0bd)](https://github.com/uchiha0bd/uchiha0bd/commits)
-
-## My GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=uchiha0bd&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## My Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=uchiha0bd)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Languages I Work With
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchiha0bd)](https://github.com/anuraghazra/github-readme-stats)
+Hi there, I'm FARES HAMID ABDO MOHAMMED! 👋
+A Software Engineering student at Universiti Teknologi Malaysia (UTM).
+About Me
+🔭 I’m currently working on improving AI Database systems.
+🌱 I’m currently learning about APIs.
+🤝 I'm happy to collaborate on projects.
+Contact
+📫 How to reach me: contact at +601127317596 or faresexpress2@gmail.com.
+My Development Journey
+![alt text](https://img.shields.io/github/commit-activity/m/uchiha0bd/uchiha0bd)
+My GitHub Stats
+![alt text](https://YOUR_VERCEL_APP_URL/api?username=uchiha0bd&show_icons=true)
+My Achievements
+![alt text](https://github-profile-trophy.vercel.app/?username=uchiha0bd)
+Languages I Work With
+![alt text](https://YOUR_VERCEL_APP_URL/api/top-langs/?username=uchiha0bd)
 
